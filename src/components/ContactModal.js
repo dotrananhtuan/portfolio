@@ -10,13 +10,13 @@ const contacts = [
     icon: FaEnvelope,
     color: '#EA4335',
   },
-  //   {
-  //     name: 'LinkedIn',
-  //     value: 'linkedin.com/in/tuan',
-  //     href: 'https://linkedin.com/in/your-profile',
-  //     icon: FaLinkedin,
-  //     color: '#0A66C2',
-  //   },
+  {
+    name: 'LinkedIn',
+    value: 'linkedin.com/in/tuandobolero',
+    href: 'https://linkedin.com/in/tuandobolero',
+    icon: FaLinkedin,
+    color: '#0A66C2',
+  },
   {
     name: 'GitLab',
     value: 'gitlab.com/dotrananhtuan', // 2. Đường dẫn & thông tin GitLab
